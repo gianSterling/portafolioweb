@@ -5,8 +5,7 @@
 }
 
 body {
-  background: rgb(86, 77, 241);
-  background: radial-gradient(circle, rgb(169, 40, 68) 0%, rgb(92, 50, 62) 50%, rgb(5, 1, 40) 100%);
+  background-image: url(https://raw.githubusercontent.com/gianSterling/portafolioweb/gh-pages/images/fondo50.jpg);
 }
 
 /*Clases alteradas Bootstrap*/
